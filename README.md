@@ -1,3 +1,5 @@
 # hello-world
-My first repository
+
+Hi, bitches!
+
 Im NINJAAAAAAAAAAAAAAJAJAJAJAJA
